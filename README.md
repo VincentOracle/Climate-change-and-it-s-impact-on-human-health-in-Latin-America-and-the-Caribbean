@@ -23,3 +23,13 @@ Precipitation patterns are also shifting. For example, the Amazon Basin is exper
 Rising temperatures in Latin America have far-reaching consequences for both natural and human systems. Higher temperatures contribute to increased heat stress, which can exacerbate cardiovascular and respiratory conditions among vulnerable populations (Vicedo-Cabrera et al., 2021). Additionally, prolonged heatwaves negatively impact agricultural productivity by reducing crop yields and increasing water demand.
 
 ![image](https://github.com/user-attachments/assets/e77a2603-af7b-4018-bb9f-553a59759940)
+
+#### The matrix reveals notable correlations:
+
+![image](https://github.com/user-attachments/assets/e3977670-73a7-40b6-bac8-d824d7170810)
+
+Figure: Chart of the correlation matrix  between the climate variables
+Temperature shows a strong positive correlation with PM2.5 (0.55) and O3 (0.60), suggesting that warmer temperatures may increase air pollution levels.
+Precipitation has a negative correlation with PM2.5 (-0.40) and NO2 (-0.35), indicating that increased rainfall may help reduce pollutant concentrations.
+Health outcomes such as respiratory diseases and cardiovascular conditions are positively correlated with temperature and air pollutants, highlighting the health risks associated with climate variability.
+These correlations emphasize the intricate link between climate variables, air quality, and health impacts, underscoring the need for targeted interventions to mitigate adverse effects.
