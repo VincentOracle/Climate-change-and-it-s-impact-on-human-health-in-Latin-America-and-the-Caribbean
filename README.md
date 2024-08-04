@@ -7,4 +7,19 @@ The data for this report is sourced from two CSV files: LA_daily_air_quality.csv
 The summary statistics of the datasets reveal key trends and variations in climate and air quality parameters across Latin America. The LA_daily_climate.csv dataset shows an average temperature of 24.5°C with a standard deviation of 5.2°C, indicating moderate variability in daily temperatures. Precipitation averages 120 mm per month, with fluctuations reflecting seasonal patterns. The LA_daily_air_quality.csv dataset highlights an average Air Quality Index (AQI) of 75, classified as "Moderate," with occasional peaks indicating higher pollution levels. These statistics provide a foundational understanding of the climate and air quality conditions impacting health in the region.
 #### Typical Climate
 Latin America exhibits diverse climate patterns influenced by its varied geography. Coastal regions experience a tropical climate with high temperatures and humidity year-round, while inland areas can have more temperate or arid climates.
+
 ![image](https://github.com/user-attachments/assets/f37bfbe7-e315-42b4-ba5e-de5ac5fdde0a)
+
+The Andes Mountains significantly impact regional weather, creating a range of microclimates. For instance, the western slopes of the Andes receive heavy rainfall due to moist air rising and cooling, while the eastern slopes and Amazon Basin maintain a humid tropical climate with frequent precipitation. Conversely, the Atacama Desert, one of the driest places on Earth, has an arid climate with minimal rainfall. This geographical diversity contributes to distinct climate zones across the region, each with unique weather patterns and environmental conditions.
+
+### Current and Projected Changes
+Recent evidence indicates significant changes in Latin America's climate, driven by global warming. Over the past decades, average temperatures in the region have increased, with projections suggesting a rise of 1.5 to 4°C by 2100, depending on greenhouse gas emissions scenarios (IPCC, 2021). This warming trend is already impacting weather patterns, contributing to more frequent and intense heatwaves.
+![image](https://github.com/user-attachments/assets/8e41d62a-a15c-44ec-a713-71965a4292f4)
+
+Figure:Linechart graph of climate data trends
+Precipitation patterns are also shifting. For example, the Amazon Basin is experiencing reduced rainfall, leading to more frequent droughts, while other areas, such as the Andes, are witnessing increased precipitation and glacial melt (Cox et al., 2013). By the end of the century, models predict a 10-20% decrease in annual rainfall for parts of the region, exacerbating water scarcity issues (IPCC, 2021).
+
+### Impact of Temperature Changes
+Rising temperatures in Latin America have far-reaching consequences for both natural and human systems. Higher temperatures contribute to increased heat stress, which can exacerbate cardiovascular and respiratory conditions among vulnerable populations (Vicedo-Cabrera et al., 2021). Additionally, prolonged heatwaves negatively impact agricultural productivity by reducing crop yields and increasing water demand.
+
+![image](https://github.com/user-attachments/assets/e77a2603-af7b-4018-bb9f-553a59759940)
